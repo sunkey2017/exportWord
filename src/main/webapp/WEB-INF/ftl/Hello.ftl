@@ -8,7 +8,7 @@
 <body>
 <h2 id="title">${datas.title}</h2>
  <div>
-    <p>1.</p><p>散数据</p>
+    <p>1.</p><p>散数据--</p>
     <p>作者：</p><p>${datas.author}</p>   
     <p>日期：</p><p>${datas.date}</p>     
     <table>
